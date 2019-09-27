@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public class Group {
 
-   private List<MultiEntity> group;
+    private List<MultiEntity> group;
 
     public Group(List<MultiEntity> group) {
         this.group = group;
